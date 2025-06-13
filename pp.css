@@ -1,0 +1,137 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-style: oblique;
+    color: #ED9455;
+}
+.top-container  {
+    background-color:  #FFEC9E;
+    padding: 50px;
+    padding-bottom: 1px;
+}
+.top-cloud {
+    position: absolute;
+    left: 1000px;
+    top: 5px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+}
+.mountain {
+    height: 550px;
+    width: 550px;
+    bottom: 1px;
+    margin: 0px;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+h1 {
+    font-size: 6rem;
+}
+h2 {
+    font-size: 2.5rem;
+}
+a {
+    color: #ED9455;
+}
+
+.mid-con  {
+    margin: 100px 0;
+}
+
+.intro  {
+    width: 30%;
+    margin: auto;
+    padding-bottom: 10px;
+}
+hr  {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 100px;
+    
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: left;
+
+}
+.coding-gif  {
+    width: 40%;
+    float: left;
+    margin: 40px;
+}
+h3 {
+    float: right;
+}
+.code {
+    float: right;
+ }
+.chillie {
+    float: right;
+    padding: 25px;
+    padding-left: 60px;
+    border-radius: 1000px;
+}
+.hot {
+    margin: 100px auto 150px auto;
+    padding: 400px;
+    padding-bottom: 10px;
+}
+.sixtynine {
+    text-align: center;
+    float: none;
+    font-size: 2.5rem;
+}
+
+#btn {
+    width: 180px;
+    margin: 10px 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    background-color: #FFEC9E;
+}
+.chor {
+    font-size: 19px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+.lower {
+    background-color: #FFEC9E;
+    padding: 50px 0 50px ;
+    position: relative;
+    top: 100px;
+    bottom: 100px;
+}
+.insta {
+    padding-right: 50px;
+    color: black;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+.snap {
+    padding-right: 50px;
+    color: black;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+.cvv {
+    padding-left: 10px;
+    color: black;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(255, 0, 0);
+}
+.copy {
+    color: black;
+    font-size: 1rem;
+}
